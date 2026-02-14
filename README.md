@@ -1,4 +1,4 @@
-# finder de directorios de http
+# Buscador de directorios de http
 
 Importante, esto funciona unicamente con HTTP debido a que no se utilizo ssl en la implementacion.
 

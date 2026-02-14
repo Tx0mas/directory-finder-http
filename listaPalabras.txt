@@ -1,0 +1,8 @@
+algo
+admin
+robots.txt
+map
+mail
+watch
+login
+photo
